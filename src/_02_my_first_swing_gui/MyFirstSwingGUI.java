@@ -16,9 +16,9 @@ public class MyFirstSwingGUI {
 	public void run() {
 
 		// 1. Declare and initialize an object of the JFrame class
-
+		JFrame object = new JFrame();
 		// 2. Set your JFrame object to be visible
-
+		
 		// 3. Open MyFirstSwingGUIRunner and run your program. Do you see your window? It's probably very
 		// small.
 
